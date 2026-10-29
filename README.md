@@ -16,6 +16,16 @@ A tablet activity for kindergarten readiness. It says the name of a letter or nu
 - **Android:** open the address in Chrome, tap the ⋮ menu, then tap Add to Home screen (or Install app).
 - After the first visit it also works offline.
 
+## Voices
+Settings → **Voice** offers four voices: US female, US male, UK female and UK male.
+- Each extra voice downloads once (about 2 MB) and then works offline.
+- Use the same voice for Checks; every record notes which voice asked.
+
+## Backup
+Readiness and records → **Save backup** downloads a file with every record and setting. Keep it somewhere safe.
+- On a new or reset tablet, **Restore from backup** brings the records back.
+- Restoring never makes duplicates.
+
 ## Light and dark screen
 Settings → **Screen** offers three choices:
 - **Auto** (the default) follows the tablet's own light or dark setting.
