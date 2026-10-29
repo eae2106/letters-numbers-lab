@@ -21,6 +21,13 @@ Settings → **Voice** offers four voices: US female, US male, UK female and UK 
 - Each extra voice downloads once (about 2 MB) and then works offline.
 - Use the same voice for Checks; every record notes which voice asked.
 
+## More than one child
+Tap the child's name at the top of the home screen to add or switch children. Each child has their own records, settings and readiness grid. A nickname is enough.
+
+## Background and timer (optional)
+- **Settings → Background:** Plain, Sky, Sand, Forest, or a photo of your own. Photos stay on the tablet.
+- **Settings → Session timer** (Practice only): 3, 5 or 10 minutes, shown as a shrinking circle.
+
 ## Celebrations (optional)
 Settings → **Celebrations** offers three levels:
 - **Off** (default).
