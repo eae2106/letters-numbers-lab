@@ -7,6 +7,22 @@ Version numbers follow **MAJOR.MINOR.PATCH**:
 
 Each version is a git tag (`v1.2.0`) and has its own pull request.
 
+## [1.3.0] — 2026-10-29
+### Added
+- **Celebrations (Practice only).** Settings → Celebrations offers three levels, and the default is **Off**:
+  - **Off:** no celebration.
+  - **Calm:** a soft chime, a one-time glow, and a star in a jar of 5.
+  - **Lively:** Calm plus a confetti burst of about 1 second.
+- **Star jar.** When the jar fills, a gentle chord and glow play, then the jar empties for the next round.
+- **Celebrate every right answer, every 2nd or every 3rd.** Celebrating less often over time keeps the focus on the letters.
+- **Guardrails:**
+  - Nothing happens on wrong taps or repeat taps; each question can be celebrated only once.
+  - No flashing, no looping and no rising-pitch sounds.
+  - The tablet's Reduce Motion setting turns off all movement.
+  - **Check never celebrates.**
+- **Extra taps after answering.** Every touch is counted. The readiness page shows the average and gives a gentle warning if he may be tapping for the effects.
+  - The CSV gains `taps` and `celebration` columns.
+
 ## [1.2.0] — 2026-10-29
 ### Added
 - **Voices.** Settings → Voice offers four:

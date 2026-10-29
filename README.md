@@ -21,6 +21,14 @@ Settings → **Voice** offers four voices: US female, US male, UK female and UK 
 - Each extra voice downloads once (about 2 MB) and then works offline.
 - Use the same voice for Checks; every record notes which voice asked.
 
+## Celebrations (optional)
+Settings → **Celebrations** offers three levels:
+- **Off** (default).
+- **Calm:** a soft chime and a star jar.
+- **Lively:** adds a short confetti burst.
+
+Celebrations happen in Practice only and never in Check. "Celebrate every 2nd / 3rd" makes them less frequent over time. If "Extra taps after answering" climbs on the readiness page, try Calm or Off.
+
 ## Backup
 Readiness and records → **Save backup** downloads a file with every record and setting. Keep it somewhere safe.
 - On a new or reset tablet, **Restore from backup** brings the records back.
