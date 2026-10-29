@@ -1,5 +1,5 @@
 // Offline cache for Letters & Numbers Lab. Same-origin files only.
-const CACHE = 'lnl-v1-2026-10-28';
+const CACHE = 'lnl-v2-2026-10-29';
 const FILES = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './apple-touch-icon.png'];
 self.addEventListener('install', e => { e.waitUntil(caches.open(CACHE).then(c => c.addAll(FILES)).then(() => self.skipWaiting())); });
 self.addEventListener('activate', e => { e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== CACHE).map(k => caches.delete(k)))).then(() => self.clients.claim())); });

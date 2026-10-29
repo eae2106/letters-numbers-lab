@@ -16,5 +16,12 @@ A tablet activity for kindergarten readiness. It says the name of a letter or nu
 - **Android:** open the address in Chrome, tap the ⋮ menu, then tap Add to Home screen (or Install app).
 - After the first visit it also works offline.
 
+## Light and dark screen
+Settings → **Screen** offers three choices:
+- **Auto** (the default) follows the tablet's own light or dark setting.
+- **Light** and **Dark** always use that look.
+
+The choice is saved on the device.
+
 ## Updating
 Replace `index.html` and change the cache name in `sw.js`. Devices pick up the new version the next time they open the app online.
